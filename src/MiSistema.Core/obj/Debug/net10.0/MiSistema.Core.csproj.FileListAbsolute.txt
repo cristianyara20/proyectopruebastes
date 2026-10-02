@@ -1,0 +1,11 @@
+C:\ProyectoPruebas\src\MiSistema.Core\obj\Debug\net10.0\MiSistema.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoPruebas\src\MiSistema.Core\obj\Debug\net10.0\MiSistema.Core.AssemblyInfoInputs.cache
+C:\ProyectoPruebas\src\MiSistema.Core\obj\Debug\net10.0\MiSistema.Core.AssemblyInfo.cs
+C:\ProyectoPruebas\src\MiSistema.Core\obj\Debug\net10.0\MiSistema.Core.csproj.CoreCompileInputs.cache
+C:\ProyectoPruebas\src\MiSistema.Core\bin\Debug\net10.0\MiSistema.Core.deps.json
+C:\ProyectoPruebas\src\MiSistema.Core\bin\Debug\net10.0\MiSistema.Core.dll
+C:\ProyectoPruebas\src\MiSistema.Core\bin\Debug\net10.0\MiSistema.Core.pdb
+C:\ProyectoPruebas\src\MiSistema.Core\obj\Debug\net10.0\MiSistema.Core.dll
+C:\ProyectoPruebas\src\MiSistema.Core\obj\Debug\net10.0\refint\MiSistema.Core.dll
+C:\ProyectoPruebas\src\MiSistema.Core\obj\Debug\net10.0\MiSistema.Core.pdb
+C:\ProyectoPruebas\src\MiSistema.Core\obj\Debug\net10.0\ref\MiSistema.Core.dll
